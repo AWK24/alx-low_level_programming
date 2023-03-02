@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/*
- * This program demonstrates the use of magic numbers in C.
- * It takes no arguments and returns 0 on success.
- */
-
 int main(void)
 {
 	  int n;
